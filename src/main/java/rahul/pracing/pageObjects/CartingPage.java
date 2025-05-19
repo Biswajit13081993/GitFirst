@@ -38,5 +38,13 @@ public class CartingPage extends AbstarctParent{
 		System.out.println("Running for git 5");
 	}
 	
+	public void checkOut02() {
+		System.out.println("Running for git 51");
+	}
+	
+	public void checkOut03() {
+		System.out.println("Running for git 52");
+	}
+	
 
 }
