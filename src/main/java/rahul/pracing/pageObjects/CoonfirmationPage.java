@@ -23,5 +23,9 @@ public class CoonfirmationPage extends AbstarctParent{
 	public String gettingConfirmationText() {
 		return confirmationText.getText();
 	}
+	
+	public void checkOut3() {
+		System.out.println("Running for git 3");
+	}
 
 }

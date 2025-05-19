@@ -47,5 +47,9 @@ public class CheckOutPage extends AbstarctParent{
 		placingOrder.click();
 	}
 	
+	public void checkOut2() {
+		System.out.println("Running for git 4");
+	}
+	
 
 }

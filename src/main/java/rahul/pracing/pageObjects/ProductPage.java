@@ -49,6 +49,10 @@ public class ProductPage extends AbstarctParent{
 		
 	}
 	
+	public void checkOut5() {
+		System.out.println("Running for git 1");
+	}
+	
 	
 
 }

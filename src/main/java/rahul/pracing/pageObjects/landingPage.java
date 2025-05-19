@@ -36,5 +36,9 @@ public class landingPage extends AbstarctParent{
 	public void goTo() {
 		driver.get("https://rahulshettyacademy.com/client/");	
 	}
+	
+	public void checkOut4() {
+		System.out.println("Running for git 2");
+	}
 
 }
